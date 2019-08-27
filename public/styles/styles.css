@@ -1,3 +1,30 @@
-.list-group-item {
+/* .list-group-item {
   line-height: 2.5;
+} */
+
+.navbar-dark .navbar-brand{
+  color: yellow;
+  border: solid;
+  text-align: center;
+  padding: 10px;
+  margin: 20px;
 }
+
+.navLaVoz{
+  color: white;
+  
+}
+
+
+div {
+  display: inline-block;
+}
+
+/* .container .row {
+  width: 1000px;
+} */
+
+.navTopics{
+  padding: 15px;
+}
+
