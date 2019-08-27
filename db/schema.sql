@@ -16,4 +16,4 @@ CREATE TABLE articles (
 
 SELECT * FROM articles;
 
-
+INSERT INTO articles (author, title, article, images) VALUES ("Ana", "Hello World", "this and that", "puppy.jpg");
