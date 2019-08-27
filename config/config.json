@@ -1,8 +1,8 @@
 {
 	"development": {
 		"username": "root",
-		"password": "1134aramoro",
-		"database": "exampledb",
+		"password": "password",
+		"database": "alza_db",
 		"host": "localhost",
 		"dialect": "mysql"
 	},
